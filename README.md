@@ -1,3 +1,4 @@
+![WhatsApp  Election 2019](https://github.com/user-attachments/assets/5fefc8db-4850-470e-9cb0-8be9bd8bf4bd)
 # Election-2019
 2019 Nigerian General Election Analysis Dashboard Report
 
